@@ -6,5 +6,6 @@ public class JavaUm
     public static void main (String Args[])
     {
         System.out.println("Teste165656");
+        System.out.print("\nJaja");
     }
 }
